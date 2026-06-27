@@ -1,0 +1,5 @@
+lelamp_env/
+*.db
+*.pt
+__pycache__/
+.vs/
