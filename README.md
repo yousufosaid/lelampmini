@@ -1,4 +1,4 @@
-# LeLamp: Edge AI & Asynchronous Robotics Backend
+# LeLamp Mini: Edge AI & Asynchronous Robotics Backend
 
 LeLamp is an intelligent, privacy-first conversational robotic desk lamp architecture. The system combines local, edge-based computer vision tracking with local Large Language Model (LLM) inference to build a persistent spatial memory of its physical environment. 
 
